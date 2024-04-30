@@ -1,8 +1,8 @@
-#KeepRecords
+# KeepRecords
 
 ## Installation
 ### Prerequisites
-```markdown
+
 - Python (version X.X.X)
 - Django (version X.X.X)
 
