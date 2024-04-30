@@ -1,18 +1,8 @@
-Certainly! Here's a basic `README.md` template for a Django project:
-
-```markdown
-# Django Project Name
-
-![Django Logo](django-logo.png)
-
-## Overview
-
-Brief overview of your Django project, its purpose, and key features.
+#KeepRecords
 
 ## Installation
-
 ### Prerequisites
-
+```markdown
 - Python (version X.X.X)
 - Django (version X.X.X)
 
