@@ -3,7 +3,7 @@
 ## Installation
 ### Prerequisites
 
-- Python (version X.X.X)
+- Python (version 3.11.4)
 - Django (version X.X.X)
 
 ### Setup
