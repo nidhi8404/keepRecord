@@ -11,7 +11,7 @@
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/django-project.git
+   git clone [https://github.com/yourusername/django-project.git](https://github.com/nidhi8404/keepRecord.git)
    ```
 
 2. Navigate to the project directory:
